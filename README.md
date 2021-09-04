@@ -2,7 +2,7 @@
 Ex-grey hat hacker turned into a Freelance flutter developer,
 i have passion for code architecture,
 Part of the early adopters of flutter..focused on building open source projects
-to show the world the beauty in dart/flutter
+to show the world the beauty in dart/flutteyr
 
 
 <!--
