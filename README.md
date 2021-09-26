@@ -1,7 +1,7 @@
 ### Hi there, i'm Lee 👋
-Ex-grey hat hacker turned into a Open source lutter developer,
-passion for code architecture, focuse
-Part of the early adopters of flutter..focused on building open sourcec  projects
+Ex-grey hat hacker. part of the early adopters of flutter,
+passion for code architecture, 
+focused on building open source  projects
 to show the world an imagination beyond the mind.
 
 
